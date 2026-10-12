@@ -231,6 +231,6 @@ Everything is seeded (`RANDOM_SEED = 42`), but LightGBM multithreading can still
 
 ## Author
 
-**<Piyush Kumar>**: <github.com/Piyushgh07> | <pk30082004@gmail.com>
+**Piyush Kumar**: github.com/Piyushgh07> | pk30082004@gmail.com
 
 Built as a portfolio project in data analysis and machine learning for aviation operations.
