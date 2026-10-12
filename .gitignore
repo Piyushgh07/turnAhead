@@ -1,0 +1,8 @@
+*.parquet
+*.joblib
+lightgbm_*.txt
+data/
+.ipynb_checkpoints/
+__pycache__/
+.env
+.DS_Store

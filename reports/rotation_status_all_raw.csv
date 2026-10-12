@@ -1,0 +1,12 @@
+,rows,pct
+invalid_tail,242070,1.43
+no_previous_leg,5899,0.03
+ambiguous_duplicate,6623,0.04
+implausible_tail_day,437354,2.58
+invalid_schedule_fields,1362,0.01
+prev_cancelled_or_diverted,141127,0.83
+discontinuous_route,198058,1.17
+gap_too_short,258306,1.52
+gap_too_long,3345083,19.7
+prior_arrives_after_sched_dep,994570,5.86
+ok,11353902,66.85

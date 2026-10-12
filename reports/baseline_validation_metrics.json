@@ -1,0 +1,21 @@
+{
+  "validation_rows": 2624868,
+  "roc_auc": 0.6682803769778461,
+  "pr_auc_average_precision": 0.34564990476172297,
+  "precision": 0.31027973521247065,
+  "recall": 0.683523863447811,
+  "f1": 0.42681190458133905,
+  "brier_score": 0.16671292121769216,
+  "threshold_selected_by_validation_f1": 0.22081179916858673,
+  "share_flagged_pct": 49.06246714120481,
+  "confusion_matrix_labels_0_1": [
+    [
+      1152032,
+      888239
+    ],
+    [
+      185011,
+      399586
+    ]
+  ]
+}

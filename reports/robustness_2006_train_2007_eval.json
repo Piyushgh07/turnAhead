@@ -1,0 +1,12 @@
+{
+  "training_period": "2006-01-01 to 2006-12-31",
+  "evaluation_period": "2007-01-01 to 2007-12-31",
+  "training_rows": 5095376,
+  "evaluation_rows": 5207656,
+  "delay_rate_pct": 22.75676427168,
+  "roc_auc": 0.8729567540839351,
+  "pr_auc_average_precision": 0.7820207692044688,
+  "raw_score_brier_diagnostic": 0.12623828127663012,
+  "fixed_boosting_rounds": 904,
+  "scale_pos_weight": 3.695151864745375
+}

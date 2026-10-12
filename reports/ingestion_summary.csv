@@ -1,0 +1,4 @@
+rows_in,bad_keys,bad_dates,out_of_window,rows_kept,year_file,parquet,parquet_size,seconds
+7141922,0,0,0,7141922,2006,/kaggle/working/processed/raw_subset/flights_2006.parquet,86.18 MB,34.8
+7453215,0,0,0,7453215,2007,/kaggle/working/processed/raw_subset/flights_2007.parquet,88.74 MB,36.2
+2389217,0,0,0,2389217,2008,/kaggle/working/processed/raw_subset/flights_2008.parquet,30.04 MB,11.9

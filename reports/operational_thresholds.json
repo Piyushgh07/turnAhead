@@ -1,0 +1,17 @@
+{
+  "calibration_period": [
+    "2007-07-01",
+    "2007-09-30"
+  ],
+  "threshold_selection_period": [
+    "2007-10-01",
+    "2007-12-31"
+  ],
+  "watchlist_threshold": 0.613348115622652,
+  "proactive_threshold": 0.8691325208027721,
+  "policy": {
+    "normal_monitoring": "Below the 85th validation percentile",
+    "watchlist": "85th through 95th validation percentiles",
+    "proactive_intervention": "Top 5% of validation risk scores"
+  }
+}

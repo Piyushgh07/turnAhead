@@ -1,0 +1,10 @@
+scenario,budget_pct,delay_capture_pct,precision_pct
+A_current,5.0,21.92,99.94
+A_current,10.0,42.32,96.49
+A_current,15.0,55.31,84.08
+B_cutoff_aware,5.0,12.05,54.95
+B_cutoff_aware,10.0,21.45,48.9
+B_cutoff_aware,15.0,29.77,45.25
+C_no_prior_leg_delay,5.0,12.04,54.89
+C_no_prior_leg_delay,10.0,21.42,48.84
+C_no_prior_leg_delay,15.0,29.8,45.3

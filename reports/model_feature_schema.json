@@ -1,0 +1,40 @@
+{
+  "categorical_features": [
+    "UniqueCarrier",
+    "Origin",
+    "Dest",
+    "route",
+    "Month",
+    "DayofMonth",
+    "DayOfWeek",
+    "sched_hour"
+  ],
+  "numeric_features": [
+    "Distance",
+    "CRSElapsedTime",
+    "sched_time_sin",
+    "sched_time_cos",
+    "hist_carrier_delay_rate",
+    "hist_origin_delay_rate",
+    "hist_route_delay_rate",
+    "hist_sched_hour_delay_rate",
+    "prior_leg_arrival_delay",
+    "sched_turn_min"
+  ],
+  "target": "is_delayed_15",
+  "baseline_score": "mean of historical route, carrier, and scheduled-hour delay rates",
+  "split_date_ranges": {
+    "train": [
+      "2006-01-01",
+      "2007-06-30"
+    ],
+    "val": [
+      "2007-07-01",
+      "2007-12-31"
+    ],
+    "test": [
+      "2008-01-01",
+      "2008-04-30"
+    ]
+  }
+}

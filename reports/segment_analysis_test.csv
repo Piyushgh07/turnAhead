@@ -1,0 +1,10 @@
+scenario,segment,flights,share_of_test_pct,delay_rate_pct,roc_auc,pr_auc,precision,recall
+A_current,1_no_prior_leg,487226,29.4519,36.4802,0.9061,0.8895,0.7687,0.7891
+A_current,2_prior_leg_not_landed_by_cutoff,1094936,66.1868,17.3167,0.8437,0.6801,0.6823,0.5448
+A_current,3_prior_leg_landed_before_cutoff,72149,4.3613,13.6218,0.7102,0.2829,0.3814,0.1756
+B_cutoff_aware,1_no_prior_leg,487226,29.4519,36.4802,0.7941,0.6308,0.6216,0.6744
+B_cutoff_aware,2_prior_leg_not_landed_by_cutoff,1094936,66.1868,17.3167,0.6398,0.2618,0.2434,0.5651
+B_cutoff_aware,3_prior_leg_landed_before_cutoff,72149,4.3613,13.6218,0.7063,0.2878,0.2992,0.4108
+C_no_prior_leg_delay,1_no_prior_leg,487226,29.4519,36.4802,0.794,0.6309,0.6209,0.6767
+C_no_prior_leg_delay,2_prior_leg_not_landed_by_cutoff,1094936,66.1868,17.3167,0.6385,0.2603,0.2425,0.5639
+C_no_prior_leg_delay,3_prior_leg_landed_before_cutoff,72149,4.3613,13.6218,0.6929,0.2646,0.2427,0.5243

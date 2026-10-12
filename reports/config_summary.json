@@ -1,0 +1,73 @@
+{
+  "random_seed": 42,
+  "input_csv_path": null,
+  "processed_dir": "/kaggle/working/processed",
+  "reports_dir": "/kaggle/working/reports",
+  "model_window": [
+    "2006-01-01",
+    "2008-04-30"
+  ],
+  "train": [
+    "2006-01-01",
+    "2007-06-30"
+  ],
+  "validation": [
+    "2007-07-01",
+    "2007-12-31"
+  ],
+  "test": [
+    "2008-01-01",
+    "2008-04-30"
+  ],
+  "robustness_train": [
+    "2006-01-01",
+    "2006-12-31"
+  ],
+  "robustness_test": [
+    "2007-01-01",
+    "2007-12-31"
+  ],
+  "delay_threshold_min": 15,
+  "top_n_origins": 40,
+  "usecols": [
+    "Year",
+    "Month",
+    "DayofMonth",
+    "DayOfWeek",
+    "DepTime",
+    "CRSDepTime",
+    "ArrTime",
+    "CRSArrTime",
+    "UniqueCarrier",
+    "FlightNum",
+    "TailNum",
+    "CRSElapsedTime",
+    "ArrDelay",
+    "DepDelay",
+    "Origin",
+    "Dest",
+    "Distance",
+    "Cancelled",
+    "CancellationCode",
+    "Diverted",
+    "CarrierDelay",
+    "WeatherDelay",
+    "NASDelay",
+    "SecurityDelay",
+    "LateAircraftDelay"
+  ],
+  "leaky_fields": [
+    "DepTime",
+    "ArrTime",
+    "ArrDelay",
+    "ActualElapsedTime",
+    "AirTime",
+    "TaxiIn",
+    "TaxiOut",
+    "CarrierDelay",
+    "WeatherDelay",
+    "NASDelay",
+    "SecurityDelay",
+    "LateAircraftDelay"
+  ]
+}

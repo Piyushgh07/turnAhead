@@ -1,0 +1,12 @@
+prior_leg_status,train,val,test
+invalid_tail,121,1,1
+no_previous_leg,3900,82,76
+ambiguous_duplicate,2511,845,539
+implausible_tail_day,144373,46400,24329
+invalid_schedule_fields,295,302,317
+prev_cancelled_or_diverted,51322,15365,13317
+discontinuous_route,96370,30221,19430
+gap_too_short,129713,46174,29921
+gap_too_long,1354356,464402,303440
+prior_arrives_after_sched_dep,410716,146191,95856
+ok,5484487,1874885,1167085

@@ -1,0 +1,13 @@
+{
+  "MIN_SCHED_TURN_MIN": 20,
+  "MAX_SCHED_TURN_MIN": 360,
+  "MAX_LEGS_PER_TAIL_DAY": 10,
+  "MAX_ABS_TZ_MIN": 360,
+  "feature_cols": [
+    "prior_leg_arrival_delay",
+    "sched_turn_min"
+  ],
+  "diagnostic_only_cols": [
+    "prior_leg_status"
+  ]
+}

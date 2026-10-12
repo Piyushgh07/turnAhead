@@ -1,0 +1,46 @@
+iata,rank,flights,share_pct,cum_share_pct,airport_name,state
+ATL,1,958836,5.65,5.65,William B Hartsfield-Atlanta Intl,GA
+ORD,2,867528,5.11,10.76,Chicago O'Hare International,IL
+DFW,3,691549,4.07,14.83,Dallas-Fort Worth International,TX
+DEN,4,551788,3.25,18.08,Denver Intl,CO
+LAX,5,544865,3.21,21.29,Los Angeles International,CA
+PHX,6,495562,2.92,24.21,Phoenix Sky Harbor International,AZ
+IAH,7,487030,2.87,27.08,George Bush Intercontinental,TX
+LAS,8,428054,2.52,29.6,McCarran International,NV
+DTW,9,361985,2.13,31.73,Detroit Metropolitan-Wayne County,MI
+EWR,10,361342,2.13,33.86,Newark Intl,NJ
+SLC,11,338300,1.99,35.85,Salt Lake City Intl,UT
+MSP,12,328002,1.93,37.78,Minneapolis-St Paul Intl,MN
+SFO,13,316073,1.86,39.64,San Francisco International,CA
+BOS,14,299474,1.76,41.4,Gen Edw L Logan Intl,MA
+MCO,15,294148,1.73,43.13,Orlando International,FL
+LGA,16,291181,1.71,44.84,LaGuardia,NY
+CLT,17,286425,1.69,46.53,Charlotte/Douglas International,NC
+JFK,18,276568,1.63,48.16,John F Kennedy Intl,NY
+CVG,19,269869,1.59,49.75,Cincinnati Northern Kentucky Intl,KY
+BWI,20,251544,1.48,51.23,Baltimore-Washington International,MD
+SEA,21,250574,1.48,52.71,Seattle-Tacoma Intl,WA
+PHL,22,245417,1.44,54.15,Philadelphia Intl,PA
+MDW,23,227178,1.34,55.49,Chicago Midway,IL
+SAN,24,221913,1.31,56.8,San Diego International-Lindbergh ,CA
+IAD,25,213545,1.26,58.06,Washington Dulles International,VA
+DCA,26,213357,1.26,59.32,Ronald Reagan Washington National,VA
+CLE,27,186980,1.1,60.42,Cleveland-Hopkins Intl,OH
+TPA,28,183764,1.08,61.5,Tampa International ,FL
+OAK,29,172352,1.01,62.51,Metropolitan Oakland International,CA
+FLL,30,162281,0.96,63.47,Fort Lauderdale-Hollywood Int'l,FL
+MEM,31,160219,0.94,64.41,Memphis International,TN
+MIA,32,152831,0.9,65.31,Miami International,FL
+STL,33,150003,0.88,66.19,Lambert-St Louis International,MO
+HNL,34,148210,0.87,67.06,Honolulu International,HI
+RDU,35,145477,0.86,67.92,Raleigh-Durham International,NC
+MCI,36,142463,0.84,68.76,Kansas City International,MO
+SJC,37,142192,0.84,69.6,San Jose International,CA
+BNA,38,140970,0.83,70.43,Nashville International,TN
+PDX,39,135452,0.8,71.23,Portland Intl,OR
+HOU,40,130521,0.77,72.0,William P Hobby,TX
+SMF,41,130335,0.77,72.77,Sacramento International,CA
+DAL,42,122179,0.72,73.49,Dallas Love ,TX
+SNA,43,121014,0.71,74.2,John Wayne /Orange Co,CA
+AUS,44,113278,0.67,74.87,Austin-Bergstrom International,TX
+PIT,45,111424,0.66,75.53,Pittsburgh International,PA

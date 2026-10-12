@@ -1,0 +1,4 @@
+priority,flights,delayed_flights,share_of_flights_pct,delay_rate_pct,share_of_delays_captured_pct
+Normal monitoring,1100110,120268,85.0,10.93,42.76
+Watchlist,129425,96313,10.0,74.42,34.24
+Proactive intervention,64713,64674,5.0,99.94,22.99
